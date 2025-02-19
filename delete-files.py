@@ -1,10 +1,8 @@
 # **Disclaimer:**
 
-This script is provided as-is, without any warranty of any kind. The author is not responsible for any data loss or other issues that may occur from the use of this script. Use this script at your own risk.
+# This script is provided as-is, without any warranty of any kind. The author is not responsible for any data loss or other issues that may occur from the use of this script. Use this script at your own risk.
 
-It is recommended that you back up your data before using this script.
-
-You could also include a more detailed explanation of the risks involved in the script's documentation.
+# It is recommended that you back up your data before using this script!
 
 # YOU HAVE BEEN WARNED! RUN AT YOUR OWN RISK!
 
